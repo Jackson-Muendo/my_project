@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome ALL!" />
         <p className="description">
-         HERE COMES</code>
+         HERE COMES
         </p>
       </main>
 
