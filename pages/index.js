@@ -1,8 +1,3 @@
-import Head from 'next/head'
-import Header from '@components/Header'
-import Footer from '@components/Footer'
-
-
 var canvas = document.getElementById("canvas");
 var ctx = canvas.getContext("2d");
 
