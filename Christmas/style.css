@@ -22,7 +22,7 @@ body{
 
 .info{
     font-family: MyFont;
-    font-size: 80px;
+    font-size: 70px;
 }
 
 html{
@@ -39,7 +39,7 @@ canvas{
 .text{
     text-align: center;
     color: #ffffff6b;
-    font-size: 10px;
+    font-size: 20px;
     width: 100%;
     top: 20%;
     position: absolute;
