@@ -87,7 +87,7 @@ createSnowFlakes();
 function countDown(){
     var today = new Date();
     var year = today.getFullYear();
-    var month = 12;
+    var month = 11;
     var date = 25;
     var eventDate = new Date(year,month,date);
 
